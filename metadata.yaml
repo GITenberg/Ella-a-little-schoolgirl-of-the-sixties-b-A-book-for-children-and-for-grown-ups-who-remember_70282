@@ -1,0 +1,36 @@
+_repo: Ella-a-little-schoolgirl-of-the-sixties-b-A-book-for-children-and-for-grown-ups-who-remember_70282
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Best, Ruth J.
+    gutenberg_agent_id: '55683'
+    url: http://www.gutenberg.org/2009/agents/55683
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: https://en.wikipedia.org/wiki/Eva_March_Tappan
+description: ''
+gutenberg_issued: '2023-03-13'
+identifiers:
+  gutenberg: '70282'
+language: en
+pgterms:marc904: https://archive.org/details/ellalittleschool00tapp/page/n9/mode/2up
+pgterms:marc905: 20200808144210tappan
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ella, a little schoolgirl of the sixties : $b A book for children and for
+  grown-ups who remember'
+url: http://www.gutenberg.org/ebooks/70282
