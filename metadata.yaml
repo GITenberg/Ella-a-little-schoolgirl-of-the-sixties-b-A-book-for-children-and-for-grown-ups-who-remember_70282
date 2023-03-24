@@ -5,6 +5,9 @@ contributor:
     agent_name: Best, Ruth J.
     gutenberg_agent_id: '55683'
     url: http://www.gutenberg.org/2009/agents/55683
+covers:
+- cover_type: archival
+  image_path: 70282-h/images/cover.jpg
 creator:
   author:
     agent_name: Tappan, Eva March
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5176
     wikipedia: https://en.wikipedia.org/wiki/Eva_March_Tappan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70282#Ella-a-little-schoolgirl-of-the-sixties-b-A-book-for-children-and-for-grown-ups-who-remember
 gutenberg_issued: '2023-03-13'
 identifiers:
   gutenberg: '70282'
